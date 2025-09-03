@@ -1,0 +1,2 @@
+YOU (TEXT): blood pressure
+ASSISTANT: Normal blood pressure is around 120 over 80.

@@ -1,0 +1,11 @@
+PatientID,Name,Age,Gender,Region,Facility,Diagnosis,Treatment,Cost,VisitDate
+P001,John Doe,34,M,North,Clinic A,Hypertension,Medication A,120.50,2024-01-15
+P002,Jane Smith,28,F,South,Clinic B,Diabetes,Medication B,200.00,2024-02-10
+P003,Michael Brown,42,M,East,Clinic C,Asthma,Inhaler,80.75,2024-03-05
+P004,Sarah Johnson,30,F,West,Clinic D,Anemia,Iron Supplements,65.00,2024-04-12
+P005,David Lee,50,M,North,Clinic A,Heart Disease,Surgery,5000.00,2024-05-20
+P006,Mary Clark,38,F,South,Clinic B,Flu,Rest & Fluids,25.00,2024-06-07
+P007,James White,45,M,East,Clinic C,Diabetes,Medication B,210.00,2024-07-19
+P008,Linda Harris,29,F,West,Clinic D,Hypertension,Medication A,130.00,2024-08-25
+P009,Robert Lewis,55,M,North,Clinic A,Heart Disease,Medication C,450.00,2024-09-11
+P010,Patricia Walker,33,F,South,Clinic B,Asthma,Inhaler,85.00,2024-10-02

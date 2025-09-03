@@ -1,0 +1,7 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: Rest & Fluids, Inhaler, Iron Supplements
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: {'PatientID': 'P006', 'Name': 'Mary Clark', 'Age': 38, 'Gender': 'F', 'Region': 'South', 'Facility': 'Clinic B', 'Diagnosis': 'Flu', 'Treatment': 'Rest & Fluids', 'Cost': 25.0, 'VisitDate': '2024-06-07'}
+{'PatientID': 'P003', 'Name': 'Michael Brown', 'Age': 42, 'Gender': 'M', 'Region': 'East', 'Facility': 'Clinic C', 'Diagnosis': 'Asthma', 'Treatment': 'Inhaler', 'Cost': 80.75, 'VisitDate': '2024-03-05'}
+{'PatientID': 'P004', 'Name': 'Sarah Johnson', 'Age': 30, 'Gender': 'F', 'Region': 'West', 'Facility': 'Clinic D', 'Diagnosis': 'Anemia', 'Treatment': 'Iron Supplements', 'Cost': 65.0, 'VisitDate': '2024-04-12'}
+{'PatientID': 'P010', 'Name': 'Patricia Walker', 'Age': 33, 'Gender': 'F', 'Region': 'South', 'Facility': 'Clinic B', 'Diagnosis': 'Asthma', 'Treatment': 'Inhaler', 'Cost': 85.0, 'VisitDate': '2024-10-02'}

@@ -1,0 +1,6 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: ❌ Error during CSV semantic search: argument of type 'int' is not iterable
+YOU: What is the treatment for patient P003?
+ASSISTANT: ❌ Error while querying CSVs: query_csv() got an unexpected keyword argument 'text_column'
+YOU: What is the treatment for patient P003?
+ASSISTANT: ❌ Error while querying CSVs: query_csv() got an unexpected keyword argument 'text_column'

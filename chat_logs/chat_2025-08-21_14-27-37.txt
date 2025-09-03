@@ -1,0 +1,6 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: Rest & Fluids
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: Rest & Fluids
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: Rest & Fluids

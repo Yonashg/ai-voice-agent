@@ -1,0 +1,4 @@
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: ❌ Error during CSV semantic search: 'Document' object has no attribute 'strip'
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: PatientID: P006 | Name: Mary Clark | Age: 38 | Gender: F | Region: South | Facility: Clinic B | Diagnosis: Flu | Treatment: Rest & Fluids | Cost: 25.0 | VisitDate: 2024-06-07

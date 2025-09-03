@@ -1,0 +1,8 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: Inhaler
+YOU: "Who was treated at Clinic D for Anemia?
+ASSISTANT: Sarah Johnson
+YOU: What is the total cost of treatments in the North region?
+ASSISTANT: Total cost in North region: 5570.50
+YOU: List all patients diagnosed with Diabetes
+ASSISTANT: Jane Smith, James White

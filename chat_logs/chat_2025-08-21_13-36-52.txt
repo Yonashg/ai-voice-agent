@@ -1,0 +1,6 @@
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: Michael Brown
+YOU: List all patients diagnosed with Diabetes.
+ASSISTANT: Michael Brown
+YOU: What is the treatment for patient P003?
+ASSISTANT: Michael Brown

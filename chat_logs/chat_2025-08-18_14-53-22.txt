@@ -1,0 +1,4 @@
+YOU: What is the total price?
+ASSISTANT: An error occurred while checking the documents: query_pdf() missing 1 required positional argument: 'query'
+YOU: What is the total price?
+ASSISTANT: An error occurred while checking the documents: query_pdf() missing 1 required positional argument: 'query'

@@ -1,0 +1,4 @@
+YOU: Blood pressure
+ASSISTANT: Normal blood pressure is around 120 over 80.
+YOU: What is the total price?
+ASSISTANT: 💰 The total price in **sample_invoice.pdf** is **$489.50**.

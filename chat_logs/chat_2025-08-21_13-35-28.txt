@@ -1,0 +1,4 @@
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: Inhaler
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: Michael Brown

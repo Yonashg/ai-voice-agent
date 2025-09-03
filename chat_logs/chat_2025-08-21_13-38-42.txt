@@ -1,0 +1,2 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: Michael Brown

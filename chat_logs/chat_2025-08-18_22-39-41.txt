@@ -1,0 +1,2 @@
+YOU: What is Item A price?
+ASSISTANT: Sample Invoice Invoice ID: INV-2025-001 Customer: John Doe Items: Item A — $120 Item B — $250 Item C — $75 Subtotal: $445 Tax (10%): $44.50 Total Price: $489.50

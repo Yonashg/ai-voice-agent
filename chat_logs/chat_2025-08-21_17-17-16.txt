@@ -1,0 +1,8 @@
+YOU: What is the treatment for patient P003?
+ASSISTANT: ❌ CSV file not found: health_data.csv
+YOU: What is the treatment for patient P003?
+ASSISTANT: No matching records found.
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: No matching records found.
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: No matching records found.

@@ -1,0 +1,9 @@
+Example Queries Your Agent Could Answer
+
+"What is the treatment for patient P003?" → Inhaler
+
+"Who was treated at Clinic D for Anemia?" → Sarah Johnson
+
+"What is the total cost of treatments in the North region?" → 120.50 + 5000.00 + 450.00 = 5570.50
+
+"List all patients diagnosed with Diabetes." → Jane Smith, James White

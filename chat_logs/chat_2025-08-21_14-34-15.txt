@@ -1,0 +1,4 @@
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: PatientID: P006 | Name: Mary Clark | Age: 38 | Gender: F | Region: South | Facility: Clinic B | Diagnosis: Flu | Treatment: Rest & Fluids | Cost: 25.0 | VisitDate: 2024-06-07
+YOU: Who was treated at Clinic D for Anemia?
+ASSISTANT: 📄 Result 1: Sample Invoice Invoice ID: INV-2025-001 Customer: John Doe Items: Item A — $120 Item B — $250 Item C — $75 Subtotal: $445 Tax (10%): $44.50 Total Price: $489.50

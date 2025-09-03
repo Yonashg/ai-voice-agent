@@ -1,0 +1,6 @@
+YOU: What is the amount of Item  A ?
+ASSISTANT: Sample Invoice Invoice ID: INV-2025-001 Customer: John Doe Items: Item A — $120 Item B — $250 Item C — $75 Subtotal: $445 Tax (10%): $44.50 Total Price: $489.50
+YOU: What is the total price?
+ASSISTANT: 💰 The total price in sample_invoice.pdf is $489.50.
+YOU: What is the Grand total?
+ASSISTANT: 💰 The total price in sample_invoice.pdf is $489.50.
