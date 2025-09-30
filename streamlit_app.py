@@ -26,7 +26,7 @@ def save_chat_log(log_data):
 
 # ---------- Page Config ----------
 st.set_page_config(
-    page_title="🎙️ ICAP AI Voice and Text Assistant",
+    page_title="🎙️ AI Voice and Text Assistant",
     page_icon="🧠",
     layout="wide"
 )
@@ -99,7 +99,7 @@ with st.sidebar:
         st.session_state.chat_history = []
 
 # ---------- Title ----------
-st.markdown("<h2 style='text-align:center;'>🎙️ ICAP M&E AI Voice and Text Assistant</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align:center;'>🎙️ AI Voice and Text Assistant</h2>", unsafe_allow_html=True)
 
 # ---------- Voice Input ----------
 col1, col2 = st.columns([1,4])
